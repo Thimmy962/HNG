@@ -7,7 +7,7 @@ def index(request):
     current_time = time.time()
     iso_datetime = datetime.fromtimestamp(current_time, tz=timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     data = {
-        "email": "oluwatimileyin962@gmail.com".title(),
+        "email": "oluwatimileyin962@gmail.com",
         "current_datetime": iso_datetime,
         "github_url": "https://github.com/Thimmy962/HNG"
     }
