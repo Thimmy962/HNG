@@ -12,7 +12,7 @@ This project returns a JSON response containing:
 ### **🚀 Setup Instructions**
 
 #### **1. Install Docker**
-Install docker [here this website](https://www.docker.com/) if it has not been installed before
+Install docker [here](https://www.docker.com/) if it has not been installed before
 
 #### **2. Clone the Repository**
 git clone https://github.com/Thimmy962/HNG
@@ -58,4 +58,4 @@ DEBUG=True
 
 
 # HNG Backlink
-If you're interested in hiring skilled Python developers, check out the [HNG Python Developers](https://hng.tech/hire/python-developers) page.
+If you're interested in hiring skilled Python developers, check out the [https://hng.tech/hire/python-developers](https://hng.tech/hire/python-developers).
